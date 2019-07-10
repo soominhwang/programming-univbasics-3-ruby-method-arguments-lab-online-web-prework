@@ -1,2 +1,2 @@
 #introduction
-introduction("name") = "Hi, my name is Josh.\n"
+introduction("name") = "Hi, my name is ("name").\n"
