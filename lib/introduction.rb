@@ -1,2 +1,4 @@
 #introduction
-introduction("name") = "Hi, my name is ("name").\n"
+def introduction(name)
+"Hello #{name}"
+end
